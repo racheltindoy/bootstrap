@@ -1,0 +1,12 @@
+#logo figure:hover {background: #e8f5fd}
+
+nav {flex-direction: row; align-items: start;}
+nav a {color: #0f1419;}
+nav a:hover{background:#e7e7e8; color: #0f1419;}
+nav a {text-decoration: none; width: auto !important;}
+
+#post-content-top a {text-decoration: none;}
+
+textarea {resize: none;}
+.fs-14 {font-size: 14px;}
+#middle1 {height: 100% !important;}
